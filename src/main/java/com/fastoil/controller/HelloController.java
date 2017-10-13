@@ -1,4 +1,4 @@
-package com.aarestu.controller;
+package com.fastoil.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
